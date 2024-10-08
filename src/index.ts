@@ -17,6 +17,9 @@ const user: User = new UserProfile("Kiel", 23)
 console.log(user);
 
 function DeleteUser(user: User) {
-   console.log(user);
+    const e = document.querySelector(".test")
+    
+   e.textContent = "dsd"
+    
 }
-DeleteUser({id: 2, name: "KIELSSS"})
+DeleteUser({ id: 2, name: "KIELSSSs" })
