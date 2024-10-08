@@ -11,4 +11,4 @@ function DeleteUser(user) {
     const e = document.querySelector(".test");
     e.textContent = "dsd";
 }
-DeleteUser({ id: 2, name: "KIELSSSs" });
+DeleteUser({ id: 2, name: "KIELSSSsS" });

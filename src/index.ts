@@ -22,4 +22,4 @@ function DeleteUser(user: User) {
    e.textContent = "dsd"
     
 }
-DeleteUser({ id: 2, name: "KIELSSSs" })
+DeleteUser({ id: 2, name: "KIELSSSsS" })
