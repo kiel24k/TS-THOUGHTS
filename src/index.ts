@@ -7,7 +7,7 @@ class UserProfile {
     id: number;
     name: string
 
-    constructor(name: string,id: number,){
+    constructor(name: string, id: number,) {
         this.id = id
         this.name = name
     }
@@ -15,3 +15,8 @@ class UserProfile {
 
 const user: User = new UserProfile("Kiel", 23)
 console.log(user);
+
+function DeleteUser(user: User) {
+   console.log(user);
+}
+DeleteUser({id: 2, name: "KIELSSS"})
