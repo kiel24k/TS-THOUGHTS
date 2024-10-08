@@ -2,3 +2,7 @@ tsc --init
 npm init
 mkdir src dist
 tsc -w
+
+==================== Keep Notes! =======================
+
+Interface: ito ay nag dedeclare ng mga types sa mga variable at ito ay susundin kung ang interface na ito ay ma idedeclare
