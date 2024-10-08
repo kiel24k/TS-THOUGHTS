@@ -7,3 +7,7 @@ class UserProfile {
 }
 const user = new UserProfile("Kiel", 23);
 console.log(user);
+function DeleteUser(user) {
+    console.log(user);
+}
+DeleteUser({ id: 2, name: "KIELSSS" });
