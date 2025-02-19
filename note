@@ -2,6 +2,7 @@ tsc --init
 npm init
 mkdir src dist
 tsc -w
+hehe
 
 ==================== Keep Notes! =======================
 
