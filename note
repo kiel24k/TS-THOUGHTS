@@ -2,7 +2,7 @@ tsc --init
 npm init
 mkdir src dist
 tsc -w
-kaa
+kaal
 
 
 
