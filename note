@@ -3,7 +3,7 @@ npm init
 mkdir src dist
 tsc -w
 hehedsssdsjhhuu
-ddss
+ddssdsad
 ==================== Keep Notes! =======================
 
 Interface: ito ay nag dedeclare ng mga types sa mga variable at ito ay susundin kung ang interface na ito ay ma idedeclare || para syang validation ng mga variable
